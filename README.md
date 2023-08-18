@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, InterBrain Astronaut</h1>
 <h3 align="center">Music App Focus</h3>
+![alt text](https://drive.google.com/file/d/1OOPqBiZUyBXrKGtcMe19DneZadi-Z5q-/view?usp=sharing)
+https://github.com/yasinakgulbp/interBrainAstronaut96/blob/main/images/InterBrainAstronaut.png
 
 - 🔭 I’m currently working on [Guard The Train](https://github.com/yasinakgulbp/GuardTheTrain)
 
